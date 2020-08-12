@@ -1,0 +1,32 @@
+{
+    "warmers": {
+        "iron man": 1,
+        "jack skellington": 1,
+        "pink salt rock": 1,
+        "test": 0,
+        "newtest": 0,
+        "letterboard": 1
+    },
+    "bars": {
+        "mystery man": 6,
+        "very bery twist": 4,
+        "orange mint": 5,
+        "flava": 2
+    },
+    "scent circles": {
+        "flava": 5,
+        "jayden smelly goody": 3,
+        "newitem": 7
+    },
+    "carbar": {
+        "mystery man": 4,
+        "my new test": 3
+    },
+    "test": {
+        "testitem": 1
+    },
+    "scentsy buddies": {
+        "iron man": 1,
+        "spiderman": 1
+    }
+}
